@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gulnazzholshy01
 - 👀 I’m interested in Computer Science
-- 🤓 I’m currently learning Terraform
+- 🤓 I’m currently learning Java
 
 
 <!---
