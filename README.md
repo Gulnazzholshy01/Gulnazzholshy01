@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gulnazzholshy01
+- 👋 Hi, I’m @Gulnaz
 - 👀 I’m interested in Computer Science
 - 🤓 I’m currently learning Java
 
