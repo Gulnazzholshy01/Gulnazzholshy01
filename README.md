@@ -4,7 +4,7 @@
 - 🔧 3+ Years Experience | 10+ IT Certifications
 - 💡 Passionate About Cloud, Automation, & Cybersecurity
 - 🔗 Open to Collaborations & Open-Source Projects
-- 📫 How to reach me **gulnazzholshy@gmail.com**
+- 📫 How to reach me **zholshygulnaz@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
