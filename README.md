@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Gulnaz
-- 👀 I’m interested in Computer Science
-- 🤓 I’m currently learning Java
+-  # Hello, I'm Gulnaz
+- 👨‍💻 DevOps Engineer | IT Master’s Student @ Loyola Chicago
+- 🔧 3+ Years Experience | 10+ IT Certifications
+- 💡 Passionate About Cloud, Automation, & Cybersecurity
+- 🔗 Open to Collaborations & Open-Source Projects
 
 
 <!---
