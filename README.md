@@ -5,13 +5,11 @@
 - 💡 Passionate About Cloud, Automation, & Cybersecurity
 - 🔗 Open to Collaborations & Open-Source Projects
 - 📫 How to reach me **gulnazzholshy@gmail.com**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gulnaz-zholshy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gulnaz-zholshy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gulnaz-zholshy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulnaz-zholshy" height="30" width="40" /></a>
 </p>
-
-
 
 <!---
 Gulnazzholshy01/Gulnazzholshy01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
