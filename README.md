@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gulnaz</h1>
 
 - 👨‍💻 DevOps Engineer | IT Master’s Student @ Loyola Chicago
-- 🔧 3+ Years Experience | 10+ IT Certifications
-- 💡 Passionate About Cloud, Automation, & Cybersecurity
+- 🔧 3+ Years Experience | 12+ IT Certifications
+- 💡 Passionate About Cloud, Automation, & CloudSecurity
 - 🔗 Open to Collaborations & Open-Source Projects
 - 📫 How to reach me **zholshygulnaz@gmail.com**
   
